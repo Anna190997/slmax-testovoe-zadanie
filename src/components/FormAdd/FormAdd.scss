@@ -1,0 +1,23 @@
+.items_wrapper_add{
+  margin-top: 20%;
+}
+.find_of_task_add{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border: 1px solid #696969;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 55px;
+  padding: 8px;
+}
+input{
+  border:none;
+}
+.icon_more_add{
+  width: 30px;
+  height: 10px;
+  padding-left: 60px;
+  cursor: pointer;
+}
